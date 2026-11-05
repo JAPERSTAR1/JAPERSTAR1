@@ -1,28 +1,26 @@
 <div align="center">
 
-# Hey, I'm JAPER 👋
+# JAPER
 
-### Developer • Creative Builder • Open-Source Explorer
+### Software Developer | Creative Technologist
 
-*Building things for the web, desktop, and beyond.*
+Building thoughtful software, exploring new technologies, and continuously improving my development skills.
 
-[![GitHub followers](https://img.shields.io/github/followers/JAPERSTAR1?style=for-the-badge&logo=github&label=Followers&color=7c3aed)](https://github.com/JAPERSTAR1?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=JAPERSTAR1&style=for-the-badge&color=7c3aed)](https://github.com/JAPERSTAR1)
-[![Website](https://img.shields.io/badge/Website-japer.me-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://japer.me)
+[![GitHub Followers](https://img.shields.io/github/followers/JAPERSTAR1?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=5865F2)](https://github.com/JAPERSTAR1?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=JAPERSTAR1&style=for-the-badge&color=5865F2)
+[![Website](https://img.shields.io/badge/Website-japer.me-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://japer.me)
 
 </div>
 
 ---
 
-### ⚡ About Me
+## About Me
 
-- 💻 I enjoy building interactive websites, apps, and developer tools.
-- 🛠️ I work with **C++, Java, Python, JavaScript, HTML, and CSS**.
-- 🤖 Exploring **local AI, Ollama, and developer automation**.
-- 🎮 I also build arcade-style games and experiment with iOS development.
-- 🌐 Explore my work: **[japer.me](https://japer.me)**
+I'm a software developer interested in creating functional, well-designed digital experiences. I enjoy problem-solving, experimenting with different technologies, and learning how systems work under the hood.
 
-### 🧰 Languages & Technologies
+My interests span software development, web technologies, developer tooling, local AI, automation, and systems programming. I value clean code, practical solutions, and continuous learning.
+
+## Languages & Web Technologies
 
 <div align="center">
 
@@ -35,7 +33,7 @@
 
 </div>
 
-### 🔧 Tools & Workflow
+## Development Tools & Environment
 
 <div align="center">
 
@@ -49,33 +47,22 @@
 
 </div>
 
-### 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JAPERSTAR1&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true" alt="GitHub stats including public commits" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPERSTAR1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JAPERSTAR1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub activity and commit statistics" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPERSTAR1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=JAPERSTAR1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=JAPERSTAR1&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
-### 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPERSTAR1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/JAPERSTAR1/LuxeServe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPERSTAR1&repo=LuxeServe&theme=tokyonight&hide_border=true" alt="LuxeServe repository"/></a>
-<a href="https://github.com/JAPERSTAR1/pong-arcade-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPERSTAR1&repo=pong-arcade-game&theme=tokyonight&hide_border=true" alt="Pong Arcade Game repository"/></a>
-<a href="https://github.com/JAPERSTAR1/snake-arcade-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPERSTAR1&repo=snake-arcade-game&theme=tokyonight&hide_border=true" alt="Snake Arcade Game repository"/></a>
-<a href="https://github.com/JAPERSTAR1/Banking-CLI-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPERSTAR1&repo=Banking-CLI-System&theme=tokyonight&hide_border=true" alt="Banking CLI System repository"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPERSTAR1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
 
 </div>
 
@@ -83,8 +70,8 @@
 
 <div align="center">
 
-**Thanks for visiting!** ⭐ Check out my repositories and follow along.
+**Learn. Build. Improve. Repeat.**
 
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAPERSTAR1?tab=repositories)
+[Website](https://japer.me) · [GitHub](https://github.com/JAPERSTAR1)
 
 </div>
