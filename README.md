@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # JAPER
 
@@ -51,8 +51,11 @@ My interests span software development, web technologies, developer tooling, loc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JAPERSTAR1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub activity and commit statistics" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPERSTAR1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=JAPERSTAR1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub activity and commit statistics" height="170"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JAPERSTAR1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" height="170"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=JAPERSTAR1&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
@@ -62,7 +65,7 @@ My interests span software development, web technologies, developer tooling, loc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPERSTAR1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+<img src="https://ghchart.rshah.org/5865F2/JAPERSTAR1" alt="GitHub contribution activity" width="100%"/>
 
 </div>
 
