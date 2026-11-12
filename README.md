@@ -65,7 +65,7 @@ My interests span software development, web technologies, developer tooling, loc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPERSTAR1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub commit activity graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAPERSTAR1&theme=tokyonight" alt="GitHub profile activity and commits" width="100%"/>
 
 </div>
 
