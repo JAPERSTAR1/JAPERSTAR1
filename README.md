@@ -61,11 +61,11 @@ My interests span software development, web technologies, developer tooling, loc
 
 </div>
 
-## Contribution Activity
+## Commit Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/5865F2/JAPERSTAR1" alt="GitHub contribution activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPERSTAR1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub commit activity graph" width="100%"/>
 
 </div>
 
